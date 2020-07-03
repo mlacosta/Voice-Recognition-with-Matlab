@@ -1,5 +1,5 @@
 # Voice-Recognition-with-Matlab (2015 Project)
-##Author: Mariano L. Acosta##
+## Author: Mariano L. Acosta ##
 
 Voice recognition system using neural networks (2015 project)
 
