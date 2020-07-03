@@ -8,6 +8,6 @@ instead i'd suggest to implement a sequencial model like a LSTM net.
 
 There exist a video tutorial ([HERE](https://www.youtube.com/watch?v=VqXgMY0NPYo)) I did for this project but it's only available in Spanish
 
-For any request on how the system work send me an email to marianoacosta.003@gmail.com
+For any request on how the system works send me an email to marianoacosta.003@gmail.com
 
 
