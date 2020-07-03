@@ -1,4 +1,6 @@
-# Voice-Recognition-with-Matlab
+# Voice-Recognition-with-Matlab (2015 Project)
+##Author: Mariano L. Acosta##
+
 Voice recognition system using neural networks (2015 project)
 
 This is a project I did back in 2015 when I was on college. Today I won't recommend to use a fully connected network, 
