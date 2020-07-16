@@ -3,8 +3,8 @@
 
 Voice recognition system using neural networks (2015 project)
 
-This is a project I did back in 2015 when I was on college. Today I won't recommend to use a fully connected network, 
-instead i'd suggest to implement a sequencial model like a LSTM net.
+This is a project I did back in 2015 when I was on college. Nowadays, I won't recommend using a fully connected network for voice recognition, 
+instead I'd suggest to implement a sequencial model like a LSTM net.
 
 There exist a video tutorial ([HERE](https://www.youtube.com/watch?v=VqXgMY0NPYo)) I did for this project but it's only available in Spanish
 
